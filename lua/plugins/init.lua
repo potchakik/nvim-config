@@ -37,4 +37,6 @@ return require('packer').startup(function()
   use 'hrsh7th/cmp-vsnip'
   use 'hrsh7th/vim-vsnip'
   use 'onsails/lspkind-nvim'
+  use 'norcalli/nvim-colorizer.lua'
+  use 'karb94/neoscroll.nvim'
 end)

@@ -8,6 +8,8 @@ require('keybindings')
 require('whichkey-config')
 require('telescope-config')
 require('lsp')
+require('neoscroll-config')
+require('colorizer-config')
 require('autopair-config')
 
 -- dracula colors 
